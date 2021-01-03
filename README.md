@@ -68,3 +68,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Steps to initialize a project reactjs
+### install nodejs - LTS version
+* node -v >  to ensure install nodejs
+* command line npx -v >  to ensure npx is downloaded and installed
+* npx create-react-app project-name >  to create a project reactjs
+- after will present a commands lines to start and to do others task with the project
+* cd in your project
+* npm start to initialize
+
+* Docs
+https://reactjs.org/
+https://pt-br.reactjs.org/
+https://reactnative.dev/
+
